@@ -1,0 +1,2 @@
+class GabysController < ApplicationController
+end
